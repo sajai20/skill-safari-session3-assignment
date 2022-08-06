@@ -1,0 +1,108 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1 {
+    width: 40%;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.box1 .box1_1 {
+    width: 50%;
+    /* background-color: red; */
+}
+
+.box1 .box1_2 {
+    width: 50%;
+    background-color: lightblue;
+    border-radius: 10px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+
+.box1 .pink {
+    background-color: pink;
+}
+
+.ass2box1 {
+    width: 30%;
+    border: 2px solid black;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.raz {
+    background-color: rgb(42, 29, 55);
+}
+
+.ass3box1 {
+    width: 50%;
+    margin: auto;
+}
+
+.ass3box1 img {
+    width: 100%;
+}
+
+.ass3box3 {
+    width: 30%;
+    margin: auto;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+
+
+ul {
+    list-style-type: square;
+}
+
+.ass3con {
+    margin-top: 30px;
+}
+
+.ass3box1_1 {
+    width: 30%;
+    border: 2px solid white;
+    margin: auto;
+    border-radius: 10px;
+    color: azure;
+}
+
+.ass4box1 {
+    width: 30%;
+    margin: auto;
+}
+
+.ass4box2 {
+    width: 60%;
+    margin: auto;
+}
+
+.ass4box2_1 {
+    width: 100%;
+    margin: auto;
+}
+
+.box2_1 {
+    width: 40%;
+    margin: auto;
+}
+
+.box2_1 img {
+    width: 60%;
+    margin: auto;
+    padding-left: 40px;
+}
